@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BankMenuTest"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.767">
+  <properties />
+  
+  
+            <testcase name="VerifyUserIsAbleToFindTheBranchToSwitchBankAccount" time="10.767" classname="uk.co.barclays.testsuit.BankMenuTest" />
+      
+</testsuite>
